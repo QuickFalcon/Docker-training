@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vep2ejvqs98idbdOcNp0AVfL9DXaNrvBWxxnZQdW93WgsxbEZ3UsJDnNqu9FfbNpepSF00v7FQjPL69yfrND3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\francisco.sosa\\source\\repos\\dockertraining_francisco_sosa_v1\\dockertraining_francisco_sosa_v1\\dockertraining_francisco_sosa_v1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\francisco.sosa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
